@@ -8,7 +8,7 @@ p2 = 300
 xs = []
 ys = []
 
-video = cv2.VideoCapture("footvolleyball.mp4")
+video = cv2.VideoCapture("ball_video1.mp4")
 #load tracker 
 tracker = cv2.TrackerCSRT_create()
 
